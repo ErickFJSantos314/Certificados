@@ -8,6 +8,21 @@ Este repositório serve como um registro da minha jornada de aprendizado contín
 
 ## 🚀 Certificações em Destaque
 
+---
+
+### 🧠 Inteligência Artificial Profunda
+**Inteligência Artificial I - Conhecendo as Redes Neurais Artificiais (IFTM)**
+*Estudo aprofundado sobre os fundamentos matemáticos e a arquitetura interna das RNAs.*
+
+* **Competências Adquiridas:**
+  * **Fundamentos de Redes Neurais:** Implementação *from scratch* de modelos lineares e não-lineares.
+  * **RNAs de Camada Única:** Domínio de arquiteturas do tipo **Perceptron** e **Adaline**.
+  * **RNAs Multicamadas:** Desenvolvimento e lógica de **Multilayer Perceptron (MLP)**.
+  * **Algoritmos de Otimização:** Funções de ativação, ajuste de pesos e retropropagação (*backpropagation*).
+  * **Treinamento & Validação:** Processos de aprendizagem supervisionada para classificação e regressão.
+
+---
+
 ### ☁️ AWS & GenAI
 **Bootcamp Fundamentos de IA Generativa com Amazon Bedrock**
 *Focado na construção de aplicações modernas de IA utilizando o ecossistema da AWS.*
